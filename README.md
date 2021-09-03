@@ -1,29 +1,15 @@
-# README #
+# Brew Installation Script. #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+This is a shell script used to install a minimal set of programs using homebrew. It is based on work from @kelfi
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Install Xcode.
+* Comment out what you dont need.
+* run the script.
+* If you find this helpful fork it.
+  * when you install something usefull using homebrew add it to your fork.
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* If you have suggestions send them.
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
