@@ -1,7 +1,10 @@
 #-----------------------------------------------------------------brewscript.sh
+#  Homebrew installation script. 
+#  Based on one given to me by @kelfi (https://github.com/kelfi)
+#  Original Author: Kelly Conley
+#  Current Author: D. Delmar Davis.
 #  
-#
-#
+
 #Xcode tools
 xcode-select --install
 #homebrew tools
