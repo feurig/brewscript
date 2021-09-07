@@ -69,6 +69,7 @@ brew install tmux
 #xquartz
 brew install --cask xquartz
 #docker
-brew install docker
+#brew install docker
+brew install --cask docker
 #kubectl
-brew instal kubectl
+brew install kubectl
